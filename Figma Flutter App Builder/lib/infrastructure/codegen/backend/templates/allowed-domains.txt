@@ -1,0 +1,3 @@
+# Allowed domains (allowlist)
+# One domain per line. Lines starting with # are comments.
+# Domains listed here will always be allowed, even if they appear in the blocklist.

@@ -1,0 +1,21 @@
+# Disposable email domains blocklist
+# One domain per line. Lines starting with # are comments.
+# This is a minimal built-in list. For production, use a comprehensive list
+# from https://github.com/disposable-email-domains/disposable-email-domains
+
+mailinator.com
+tempmail.com
+guerrillamail.com
+throwaway.email
+10minutemail.com
+trashmail.com
+fakeinbox.com
+sharklasers.com
+guerrillamailblock.com
+dispostable.com
+mailnesia.com
+maildrop.cc
+getnada.com
+temp-mail.org
+emailondeck.com
+trashmail.net
